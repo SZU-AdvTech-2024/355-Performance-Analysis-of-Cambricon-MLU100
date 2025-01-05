@@ -1,0 +1,8 @@
+@inproceedings{REPO355,
+    author = "Li, Jiansong and Jiang, Zihan",
+    booktitle = "Benchmarking, Measuring, and Optimizing: Second BenchCouncil International Symposium, Bench 2019, Denver, CO, USA, November 14--16, 2019, Revised Selected Papers 2",
+    organization = "Springer",
+    pages = "57--66",
+    title = "{Performance analysis of cambricon mlu100}",
+    year = "2020"
+}
