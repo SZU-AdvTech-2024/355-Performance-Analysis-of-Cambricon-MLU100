@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/hello.dir/main.cpp.o -c /home/szu/lang2/dac/main.cpp",
+  "file": "/home/szu/lang2/dac/main.cpp",
+  "output": "CMakeFiles/hello.dir/main.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/hello.dir/src/readimage/ImageReader.cpp.o -c /home/szu/lang2/dac/src/readimage/ImageReader.cpp",
+  "file": "/home/szu/lang2/dac/src/readimage/ImageReader.cpp",
+  "output": "CMakeFiles/hello.dir/src/readimage/ImageReader.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/hello.dir/src/mlu100/Launch.cpp.o -c /home/szu/lang2/dac/src/mlu100/Launch.cpp",
+  "file": "/home/szu/lang2/dac/src/mlu100/Launch.cpp",
+  "output": "CMakeFiles/hello.dir/src/mlu100/Launch.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/hello2.dir/main2.cpp.o -c /home/szu/lang2/dac/main2.cpp",
+  "file": "/home/szu/lang2/dac/main2.cpp",
+  "output": "CMakeFiles/hello2.dir/main2.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/hello3.dir/main3.cpp.o -c /home/szu/lang2/dac/main3.cpp",
+  "file": "/home/szu/lang2/dac/main3.cpp",
+  "output": "CMakeFiles/hello3.dir/main3.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/hello4.dir/main4.cpp.o -c /home/szu/lang2/dac/main4.cpp",
+  "file": "/home/szu/lang2/dac/main4.cpp",
+  "output": "CMakeFiles/hello4.dir/main4.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles/generate.dir/generate.cpp.o -c /home/szu/lang2/dac/generate.cpp",
+  "file": "/home/szu/lang2/dac/generate.cpp",
+  "output": "CMakeFiles/generate.dir/generate.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o lib/ThreadPool/CMakeFiles/example.dir/example.cpp.o -c /home/szu/lang2/dac/lib/ThreadPool/example.cpp",
+  "file": "/home/szu/lang2/dac/lib/ThreadPool/example.cpp",
+  "output": "lib/ThreadPool/CMakeFiles/example.dir/example.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o lib/ThreadPool/CMakeFiles/example2.dir/example2.cpp.o -c /home/szu/lang2/dac/lib/ThreadPool/example2.cpp",
+  "file": "/home/szu/lang2/dac/lib/ThreadPool/example2.cpp",
+  "output": "lib/ThreadPool/CMakeFiles/example2.dir/example2.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac -I/home/szu/lang2/dac/test/src/infernce  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o test/CMakeFiles/infer_breakdown.dir/infer_breakdown.cpp.o -c /home/szu/lang2/dac/test/infer_breakdown.cpp",
+  "file": "/home/szu/lang2/dac/test/infer_breakdown.cpp",
+  "output": "test/CMakeFiles/infer_breakdown.dir/infer_breakdown.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac -I/home/szu/lang2/dac/test/src/infernce  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o test/CMakeFiles/task_execution_breakdown.dir/__/src/inference/ModelManager.cpp.o -c /home/szu/lang2/dac/src/inference/ModelManager.cpp",
+  "file": "/home/szu/lang2/dac/src/inference/ModelManager.cpp",
+  "output": "test/CMakeFiles/task_execution_breakdown.dir/__/src/inference/ModelManager.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac -I/home/szu/lang2/dac/test/src/infernce  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o test/CMakeFiles/task_execution_breakdown.dir/__/src/inference/ContextManager.cpp.o -c /home/szu/lang2/dac/src/inference/ContextManager.cpp",
+  "file": "/home/szu/lang2/dac/src/inference/ContextManager.cpp",
+  "output": "test/CMakeFiles/task_execution_breakdown.dir/__/src/inference/ContextManager.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac -I/home/szu/lang2/dac/test/src/infernce  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o test/CMakeFiles/task_execution_breakdown.dir/__/src/readimage/ImageReader.cpp.o -c /home/szu/lang2/dac/src/readimage/ImageReader.cpp",
+  "file": "/home/szu/lang2/dac/src/readimage/ImageReader.cpp",
+  "output": "test/CMakeFiles/task_execution_breakdown.dir/__/src/readimage/ImageReader.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac -I/home/szu/lang2/dac/test/src/infernce  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o test/CMakeFiles/task_execution_breakdown.dir/__/src/readimage/Shape.cpp.o -c /home/szu/lang2/dac/src/readimage/Shape.cpp",
+  "file": "/home/szu/lang2/dac/src/readimage/Shape.cpp",
+  "output": "test/CMakeFiles/task_execution_breakdown.dir/__/src/readimage/Shape.cpp.o"
+},
+{
+  "directory": "/home/szu/lang2/dac/cmake-build-release",
+  "command": "/usr/bin/c++ -I/usr/include/opencv -I/usr/local/neuware/include -I/home/szu/lang2/dac/src -I/home/szu/lang2/dac/src/mlu100 -I/home/szu/lang2/dac/src/mlu -I/home/szu/lang2/dac/src/readimage -I/home/szu/lang2/dac -I/home/szu/lang2/dac/test/src/infernce  -pthread  -std=c++14 -O3 -DNDEBUG -std=gnu++14 -fdiagnostics-color=always -o test/CMakeFiles/task_execution_breakdown.dir/task_execution_breakdown.cpp.o -c /home/szu/lang2/dac/test/task_execution_breakdown.cpp",
+  "file": "/home/szu/lang2/dac/test/task_execution_breakdown.cpp",
+  "output": "test/CMakeFiles/task_execution_breakdown.dir/task_execution_breakdown.cpp.o"
+}
+]

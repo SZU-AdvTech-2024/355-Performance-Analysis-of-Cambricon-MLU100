@@ -1,0 +1,3 @@
+---model breakdown(ms)---
+batch		preprocess		h2d		infer		d2h		postprocess		
+32		0.151		349.998		587.954		8.812		0.021		

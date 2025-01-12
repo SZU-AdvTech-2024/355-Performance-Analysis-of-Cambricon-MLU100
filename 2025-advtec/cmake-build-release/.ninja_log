@@ -1,0 +1,16 @@
+# ninja log v6
+2024	2297	1731937829324549600	/home/szu/lang2/dac/bin/task_execution_breakdown	c41eda8c1e55dbd1
+4	2024	1731937827304542810	test/CMakeFiles/task_execution_breakdown.dir/__/src/inference/ContextManager.cpp.o	fec693eeac6a9c97
+3	1413	1731937398715102284	test/CMakeFiles/task_execution_breakdown.dir/task_execution_breakdown.cpp.o	154d45097de87759
+3	1581	1731925434878890788	test/CMakeFiles/task_execution_breakdown.dir/__/src/readimage/ImageReader.cpp.o	dee18e2690603199
+3	1717	1731939724362918990	CMakeFiles/hello4.dir/main4.cpp.o	1776ab92feea2e2d
+4	328	1731937798792446979	test/CMakeFiles/task_execution_breakdown.dir/__/src/inference/ModelManager.cpp.o	8f77f76dfb1f4bd6
+1717	1996	1731939726074924743	/home/szu/lang2/dac/bin/hello4	65e9ec3aa87055f7
+4	328	1731925434878890788	test/CMakeFiles/task_execution_breakdown.dir/__/src/readimage/Shape.cpp.o	a571ca8962799157
+3	122	1732451876688307602	build.ninja	ddf5b564270b17cf
+2	1539	1732452170061293655	CMakeFiles/hello3.dir/main3.cpp.o	5ffeaae661d4297c
+1539	1824	1732452171597298817	/home/szu/lang2/dac/bin/hello3	aeeb81151ac904c7
+4	1567	1732453333733204857	CMakeFiles/hello3.dir/main3.cpp.o	5ffeaae661d4297c
+1567	1794	1732453335297210114	/home/szu/lang2/dac/bin/hello3	aeeb81151ac904c7
+4	1455	1732453369657325601	CMakeFiles/hello3.dir/main3.cpp.o	5ffeaae661d4297c
+1455	1686	1732453371109330482	/home/szu/lang2/dac/bin/hello3	aeeb81151ac904c7
